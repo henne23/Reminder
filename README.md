@@ -9,7 +9,7 @@ Type in a value between 0 - 600 (mins) or use the slider to choose
 the desired period where the application should remind you to
 drink water regularly.
 
-![Reminder](Reminder.jpg)
+![Reminder](Reminder.JPG)
 
 ## Authors
 
